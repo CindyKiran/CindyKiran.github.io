@@ -1,2 +1,125 @@
-Hello World
-<a href ="https://github.com/CindyKiran/PokemonGo/blob/master/LevelUp/index.html">Test</a>
+<!DOCTYPE html>
+<html>
+<head>
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<style>
+	* {
+	  box-sizing: border-box;
+	}
+
+	body {
+	  background-color: #f1f1f1;
+	  padding: 20px;
+	  font-family: Arial;
+	}
+
+	.container {
+	  max-width: 1000px;
+	  margin: auto;
+	}
+
+	h1 {
+	  font-size: 50px;
+	  word-break: break-all;
+	}
+	
+	p, li { font-size: 0.9em; }
+
+	.row {
+	  display: flex;
+	  width: 100%;
+	}
+
+	.column {
+	  flex: 1;
+	  margin-right: 15px;
+      background: white;
+	}
+
+	.content {
+	  background-color: white;
+	  padding: 10px;
+	}
+	
+	.image {
+	  width: 219px;
+      height: 172px;
+	}
+
+	@media screen and (max-width: 900px) {
+	  .column {
+		width: 50%;
+	  }
+	  
+	  .image {
+	      width: 363px;
+		  height: 270px;
+	  }
+	}
+
+	@media screen and (max-width: 600px) {
+	  .column {
+		width: 100%;
+	  }
+
+	}
+
+	</style>
+</head>
+<body>
+
+	<div class="container">
+
+		<h1>CindyK's Portfolio</h1>
+		<hr>
+
+		<h2>My Work</h2>
+		<!-- Portfolio Gallery Grid -->
+		<div class="row">
+		  <div class="column">
+			<div class="content">
+			  <img class="image" src="https://github.com/CindyKiran/PokemonGo/blob/master/LevelUp/demoLevel.gif?raw=true">
+			  <h3>Level Up</h3>
+			  <p>Calculate and display your age (i.e. level) and how close your upcoming birthday is based on today (i.e. displayed as how full the bar is) </p>
+			  <ul>
+			    <li>Javascript</li>
+				<li>Angular</li>
+				<li>HTML and CSS</li>
+			  </ul>
+			</div>
+		  </div>
+		  <div class="column">
+			<div class="content">
+			<img class="image" src="https://github.com/CindyKiran/PokeMart/blob/master/Pokemart-inventory/demoInventory.gif?raw=true">
+			  <h3>PokeMart Inventory</h3>
+			  <p>Retrieve and display items from database and insert new item into the current database, which will be updated</p>
+			  <ul>
+			    <li>SQLite</li>
+				<li>Java, Spring Boot, Hibernate JPA, Maven</li>
+				<li>Angular</li>
+			  </ul>
+			</div>
+		  </div>
+		  <div class="column">
+			<div class="content">
+			<img class="image" src="pokemartwebsiteA.bmp">
+			  <h3>Webshop</h3>
+			  <p>First project in creating website</p>
+			  <ul>
+			    <li>HTML</li>
+				<li>CSS</li>
+				<li>PHP</li>
+			  </ul>
+			</div>
+		  </div>
+		  <div class="column">
+			<div class="content">
+			<img src="/w3images/mountains.jpg" alt="Mountains" style="width:100%">
+			  <h3>My Work</h3>
+			  <p>Lorem ipsum dolor sit amet, tempor prodesset eos no. Temporibus necessitatibus sea ei, at tantas oporteat nam. Lorem ipsum dolor sit amet, tempor prodesset eos no.</p>
+			</div>
+		  </div>
+		</div>
+	</div>
+</body>
+</html>
