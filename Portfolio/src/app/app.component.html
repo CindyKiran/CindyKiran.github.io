@@ -1,0 +1,12 @@
+<h1>Test</h1>
+<!-- <div id="title" *ngFor="let x of titles">
+  <h2>{{x}}</h2>
+</div> -->
+<div *ngFor="let project of projects">
+  <p>{{project.title}}</p>
+  <p>{{project.time}}</p>
+  <p>{{project.desc}}</p>
+  <p>{{project.tools}}</p>
+  <p>{{project.image}}</p>
+</div>
+<router-outlet></router-outlet>

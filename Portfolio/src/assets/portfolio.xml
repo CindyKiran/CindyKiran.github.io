@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PORTFOLIO>
+	<WORK>
+		<TITLE>PokeMart Inventory</TITLE>
+		<TIME>2019</TIME>
+		<DESC>Retrieve and display items from database and insert new item into the current database, which will be updated</DESC>
+		<TOOLS>SQLite</TOOLS>
+		<TOOLS>Java, Spring Boot, Hibernate JPA, Maven</TOOLS>
+		<TOOLS>Angular</TOOLS>
+		<IMAGE>https://github.com/CindyKiran/PokeMart/blob/master/Pokemart-inventory/demoInventory.gif?raw=true</IMAGE>
+	</WORK>
+</PORTFOLIO>

@@ -1,13 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<works>
-	<work>
-		<title>PokeMart Inventory</title>
-		<desc>Retrieve and display items from database and insert new item into the current database, which will be updated</desc>
-		<tools>
+<PORTFOLIO>
+	<WORK>
+		<TITLE>PokeMart Inventory</TITLE>
+		<DESC>Retrieve and display items from database and insert new item into the current database, which will be updated</DESC>
+		<TOOLS>
 			<li>SQLite</li>
 			<li>Java, Spring Boot, Hibernate JPA, Maven</li>
 			<li>Angular</li>
-		</tools>
-		<image>https://github.com/CindyKiran/PokeMart/blob/master/Pokemart-inventory/demoInventory.gif?raw=true</image>
-	</work>
-</works>
+		</TOOLS>
+		<IMAGE>https://github.com/CindyKiran/PokeMart/blob/master/Pokemart-inventory/demoInventory.gif?raw=true</IMAGE>
+	</WORK>
+	<WORK>
+		<TITLE>Bla</TITLE>
+		<DESC>Hello</DESC>
+		<TOOLS>Owboy</TOOLS>
+		<IMAGE>Bye</IMAGE>
+	</WORK>
+</PORTFOLIO>
