@@ -2,18 +2,42 @@
 <PORTFOLIO>
 	<WORK>
 		<TITLE>PokeMart Inventory</TITLE>
+		<TIME>2019</TIME>
 		<DESC>Retrieve and display items from database and insert new item into the current database, which will be updated</DESC>
-		<TOOLS>
-			<li>SQLite</li>
-			<li>Java, Spring Boot, Hibernate JPA, Maven</li>
-			<li>Angular</li>
-		</TOOLS>
+		<TOOLS>SQLite</TOOLS>
+		<TOOLS>Java, Spring Boot, Hibernate JPA, Maven</TOOLS>
+		<TOOLS>Angular</TOOLS>
 		<IMAGE>https://github.com/CindyKiran/PokeMart/blob/master/Pokemart-inventory/demoInventory.gif?raw=true</IMAGE>
+		<LINK>https://github.com/CindyKiran/PokeMart</LINK>
 	</WORK>
 	<WORK>
-		<TITLE>Bla</TITLE>
-		<DESC>Hello</DESC>
-		<TOOLS>Owboy</TOOLS>
-		<IMAGE>Bye</IMAGE>
+		<TITLE>Level Up</TITLE>
+		<TIME>2019</TIME>
+		<DESC>Calculate and display your age (i.e. level) and how close your upcoming birthday is based on today (i.e. displayed as how full the bar is)</DESC>
+		<TOOLS><TOOLS>
+		<TOOLS><TOOLS>
+		<TOOLS><TOOLS>
+		<IMAGE>https://github.com/CindyKiran/PokemonGo/blob/master/LevelUp/demoLevel.gif?raw=true</IMAGE>
+		<LINK>https://github.com/CindyKiran/PokemonGo</LINK>
+	</WORK>
+	<WORK>
+		<TITLE>Pokemon Go CV</TITLE>
+		<TIME>2019</TIME>
+		<DESC>Inspired by Pokemon Go modern interface, I've created a CV that makes you feel that you play Pokemon Go again</DESC>
+		<TOOLS>HTML and CSS<TOOLS>
+		<TOOLS>Javascript and JQuery<TOOLS>
+		<TOOLS>PHP<TOOLS>
+		<IMAGE>/assets/GoCV.gif</IMAGE>
+		<LINK>https://resumepokemongo.000webhostapp.com/</LINK>
+	</WORK>
+	<WORK>
+		<TITLE>PokeMart Webshop</TITLE>
+		<TIME>2018</TIME>
+		<DESC>First project in creating website</DESC>
+		<TOOLS>HTML<TOOLS>
+		<TOOLS>CSS<TOOLS>
+		<TOOLS>PHP<TOOLS>
+		<IMAGE>/assets/pokemartwebsiteA.bmp</IMAGE>
+		<LINK>https://pokemon-mart.000webhostapp.com/</LINK>
 	</WORK>
 </PORTFOLIO>

@@ -4,6 +4,7 @@ export class Project {
         public time: number,
         public desc: string,
         public tools: Array<string>,
-        public image: string
+        public image: string,
+        public link: string
     ){}
 }
