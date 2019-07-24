@@ -1,0 +1,25 @@
+.container {
+    background-color: #b2ddce;
+    color: white;
+    padding: 17px;
+    line-height: 1.5em;
+}
+h2 { margin: 3px; } 
+
+img {
+    width: 8em;
+    border-radius: 50%;
+}
+
+p {
+    width: 40%;
+    text-align: center;
+    margin: auto;
+}
+
+@media screen and (max-width: 900px) {
+    p {
+        width: 80%;
+    }
+}
+  

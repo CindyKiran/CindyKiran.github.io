@@ -1,15 +1,14 @@
-<h1>Test</h1>
+<app-header></app-header>
+<h2>My Work</h2>
 <div class="container">
-  <div class="row">
     <div class="column" *ngFor="let project of projects">
+      <img class="image" src={{project.image}}>
       <div class="content">
-        <img class="image" src={{project.image}}>
         <h3>{{project.title}}</h3>
         <p style="margin-top: 0; text-align: center"><b><i>{{project.time}}</i></b></p>
         <p>{{project.desc}}</p>
         <p>Skills: {{project.tools}}</p>
       </div>
     </div>
-  </div>
 </div>
 <router-outlet></router-outlet>
