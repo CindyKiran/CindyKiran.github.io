@@ -1,0 +1,12 @@
+<h2>My Work</h2>
+<div class="container">
+    <div class="column" *ngFor="let project of projects">
+        <a href={{project.link}}><img class="image" src={{project.image}}></a>
+        <div class="content">
+          <h3>{{project.title}}</h3>
+          <p style="margin-top: 0; text-align: center"><b><i>{{project.time}}</i></b></p>
+          <p>{{project.desc}}</p>
+          <p>Skills: {{project.tools}}</p>
+        </div>
+    </div>
+</div>
