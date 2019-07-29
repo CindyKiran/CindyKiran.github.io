@@ -7,8 +7,9 @@
 		<TOOLS>SQLite</TOOLS>
 		<TOOLS>Java, Spring Boot, Hibernate JPA, Maven</TOOLS>
 		<TOOLS>Angular</TOOLS>
-		<IMAGE>https://github.com/CindyKiran/PokeMart/blob/master/Pokemart-inventory/demoInventory.gif?raw=true</IMAGE>
+		<IMAGE>https://github.com/CindyKiran/PokeMart/blob/master/Pokemart-inventory/demoInventoryA.png?raw=true</IMAGE>
 		<LINK>https://github.com/CindyKiran/PokeMart</LINK>
+		<HOVER>https://github.com/CindyKiran/PokeMart/blob/master/Pokemart-inventory/demoInventoryB.gif?raw=true</HOVER>
 	</WORK>
 	<WORK>
 		<TITLE>Level Up</TITLE>
@@ -17,8 +18,9 @@
 		<TOOLS>Javascript</TOOLS>
 		<TOOLS>JQuery</TOOLS>
 		<TOOLS>HTML and CSS</TOOLS>
-		<IMAGE>https://github.com/CindyKiran/PokemonGo/blob/master/LevelUp/demoLevel.gif?raw=true</IMAGE>
+		<IMAGE>https://github.com/CindyKiran/PokemonGo/blob/master/LevelUp/demoLevelA.png?raw=true</IMAGE>
 		<LINK>https://github.com/CindyKiran/PokemonGo</LINK>
+		<HOVER>https://github.com/CindyKiran/PokemonGo/blob/master/LevelUp/demoLevelB.gif?raw=true</HOVER>
 	</WORK>
 	<WORK>
 		<TITLE>Pokemon Go CV</TITLE>
@@ -29,6 +31,7 @@
 		<TOOLS>PHP</TOOLS>
 		<IMAGE>/assets/GoCV.gif</IMAGE>
 		<LINK>https://resumepokemongo.000webhostapp.com/</LINK>
+		<HOVER>JKJKJ</HOVER>
 	</WORK>
 	<WORK>
 		<TITLE>Poke Mart Webshop</TITLE>
@@ -39,5 +42,6 @@
 		<TOOLS>PHP</TOOLS>
 		<IMAGE>/assets/pokemartwebsiteA.bmp</IMAGE>
 		<LINK>https://pokemon-mart.000webhostapp.com/</LINK>
+		<HOVER>ljhjlhj</HOVER>
 	</WORK>
 </PORTFOLIO>
