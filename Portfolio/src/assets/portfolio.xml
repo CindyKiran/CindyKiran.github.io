@@ -29,9 +29,9 @@
 		<TOOLS>HTML and CSS</TOOLS>
 		<TOOLS>Javascript and JQuery</TOOLS>
 		<TOOLS>PHP</TOOLS>
-		<IMAGE>/assets/GoCV.gif</IMAGE>
+		<IMAGE>https://github.com/CindyKiran/CindyKiran.github.io/blob/master/GoCVA.png?raw=true</IMAGE>
 		<LINK>https://resumepokemongo.000webhostapp.com/</LINK>
-		<HOVER>JKJKJ</HOVER>
+		<HOVER>https://github.com/CindyKiran/CindyKiran.github.io/blob/master/GoCVB.gif?raw=true</HOVER>
 	</WORK>
 	<WORK>
 		<TITLE>Poke Mart Webshop</TITLE>
