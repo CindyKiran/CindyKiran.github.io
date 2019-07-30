@@ -1,5 +1,6 @@
 import { Component, OnInit } from '@angular/core';
 import { ProjectService } from 'src/app/project.service';
+import { Project } from 'src/app/project';
 
 @Component({
   selector: 'app-home',
@@ -7,12 +8,18 @@ import { ProjectService } from 'src/app/project.service';
   styleUrls: ['./home.component.css']
 })
 export class HomeComponent implements OnInit {
-  title = 'Hello World';
   projects;
 
   constructor(private projectService: ProjectService) { }
 
   ngOnInit() {
     this.projectService.getProjects().subscribe(projects => this.projects = projects);
+    this.myFunction();
+  }
+
+  myFunction(){
+    // //var x = (<HTMLImageElement> document.getElementById("image")).src;
+    // var x =  document.getElementById("image").parentElement;
+    // alert(x);
   }
 }

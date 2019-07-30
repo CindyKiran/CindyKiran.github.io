@@ -9,5 +9,7 @@ import { TestBed } from '@angular/core/testing';
 export class HeaderComponent implements OnInit {
   constructor() { }
 
-  ngOnInit() {}
+  ngOnInit() {
+  }
+
 }

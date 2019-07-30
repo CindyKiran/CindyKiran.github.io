@@ -34,7 +34,7 @@ h2::before, h2::after {
   padding: 10px;
 }
 
-.image {
+#image {
   width: 92%;
   margin-top: 11px;
   height: 10em;

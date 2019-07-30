@@ -13,7 +13,7 @@ export class ProjectService {
     //create variables
     var projects = [];
     var i, j, x, xmlhttp, xmlDoc;
-    var title, time, desc, image, link, tools;
+    var title, time, desc, image, link, tools, hover;
     xmlhttp = new XMLHttpRequest();
 
     //get access to XML-file
@@ -29,6 +29,7 @@ export class ProjectService {
       desc = x[i].getElementsByTagName("DESC")[0].childNodes[0].nodeValue;
       image = x[i].getElementsByTagName("IMAGE")[0].childNodes[0].nodeValue;
       link = x[i].getElementsByTagName("LINK")[0].childNodes[0].nodeValue;
+      hover = x[i].getElementsByTagName("HOVER")[0].childNodes[0].nodeValue;
 
       //loop through all the 3 used tools
       tools =[];
@@ -38,7 +39,7 @@ export class ProjectService {
       }
 
       //save objects of type Project in array
-      projects.push(new Project(title, time, desc, tools, image, link));
+      projects.push(new Project(title, time, desc, tools, image, link, hover));
     }
     return of(projects);
   }

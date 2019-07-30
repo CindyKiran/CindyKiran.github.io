@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PORTFOLIO>
+	<WORK>
+		<TITLE>PokeMart Inventory</TITLE>
+		<TIME>2019</TIME>
+		<DESC>Retrieve and display items from database and insert new item into the current database, which will be updated</DESC>
+		<TOOLS>SQLite</TOOLS>
+		<TOOLS>Java, Spring Boot, Hibernate JPA, Maven</TOOLS>
+		<TOOLS>Angular</TOOLS>
+		<IMAGE>https://github.com/CindyKiran/PokeMart/blob/master/Pokemart-inventory/demoInventoryA.png?raw=true</IMAGE>
+		<LINK>https://github.com/CindyKiran/PokeMart</LINK>
+		<HOVER>https://github.com/CindyKiran/PokeMart/blob/master/Pokemart-inventory/demoInventoryB.gif?raw=true</HOVER>
+	</WORK>
+	<WORK>
+		<TITLE>Level Up</TITLE>
+		<TIME>2019</TIME>
+		<DESC>Calculate and display your age (i.e. level) and how close your upcoming birthday is based on today (i.e. displayed as how full the bar is)</DESC>
+		<TOOLS>Javascript</TOOLS>
+		<TOOLS>JQuery</TOOLS>
+		<TOOLS>HTML and CSS</TOOLS>
+		<IMAGE>https://github.com/CindyKiran/PokemonGo/blob/master/LevelUp/demoLevelA.png?raw=true</IMAGE>
+		<LINK>https://github.com/CindyKiran/PokemonGo</LINK>
+		<HOVER>https://github.com/CindyKiran/PokemonGo/blob/master/LevelUp/demoLevelB.gif?raw=true</HOVER>
+	</WORK>
+	<WORK>
+		<TITLE>Pokemon Go CV</TITLE>
+		<TIME>2019</TIME>
+		<DESC>Inspired by Pokemon Go modern interface, I've created a CV that makes you feel that you play Pokemon Go again</DESC>
+		<TOOLS>HTML and CSS</TOOLS>
+		<TOOLS>Javascript and JQuery</TOOLS>
+		<TOOLS>PHP</TOOLS>
+		<IMAGE>https://github.com/CindyKiran/CindyKiran.github.io/blob/master/Portfolio/src/assets/GoCVA.png?raw=true</IMAGE>
+		<LINK>https://resumepokemongo.000webhostapp.com/</LINK>
+		<HOVER>https://github.com/CindyKiran/CindyKiran.github.io/blob/master/Portfolio/src/assets/GoCVB.gif?raw=true</HOVER>
+	</WORK>
+	<WORK>
+		<TITLE>Poke Mart Webshop</TITLE>
+		<TIME>2018</TIME>
+		<DESC>First big project for creating a website</DESC>
+		<TOOLS>HTML</TOOLS>
+		<TOOLS>CSS</TOOLS>
+		<TOOLS>PHP</TOOLS>
+		<IMAGE>https://github.com/CindyKiran/CindyKiran.github.io/blob/master/Portfolio/src/assets/PokemartWebA.png?raw=true</IMAGE>
+		<LINK>https://pokemon-mart.000webhostapp.com/</LINK>
+		<HOVER>https://github.com/CindyKiran/CindyKiran.github.io/blob/master/Portfolio/src/assets/PokemartWebB.gif?raw=true</HOVER>
+	</WORK>
+</PORTFOLIO>

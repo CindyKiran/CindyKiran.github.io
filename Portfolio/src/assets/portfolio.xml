@@ -29,9 +29,9 @@
 		<TOOLS>HTML and CSS</TOOLS>
 		<TOOLS>Javascript and JQuery</TOOLS>
 		<TOOLS>PHP</TOOLS>
-		<IMAGE>https://github.com/CindyKiran/CindyKiran.github.io/blob/master/GoCVA.png?raw=true</IMAGE>
+		<IMAGE>https://github.com/CindyKiran/CindyKiran.github.io/blob/master/Portfolio/src/assets/GoCVA.png?raw=true</IMAGE>
 		<LINK>https://resumepokemongo.000webhostapp.com/</LINK>
-		<HOVER>https://github.com/CindyKiran/CindyKiran.github.io/blob/master/GoCVB.gif?raw=true</HOVER>
+		<HOVER>https://github.com/CindyKiran/CindyKiran.github.io/blob/master/Portfolio/src/assets/GoCVB.gif?raw=true</HOVER>
 	</WORK>
 	<WORK>
 		<TITLE>Poke Mart Webshop</TITLE>
@@ -40,8 +40,8 @@
 		<TOOLS>HTML</TOOLS>
 		<TOOLS>CSS</TOOLS>
 		<TOOLS>PHP</TOOLS>
-		<IMAGE>/assets/pokemartwebsiteA.bmp</IMAGE>
+		<IMAGE>https://github.com/CindyKiran/CindyKiran.github.io/blob/master/Portfolio/src/assets/PokemartWebA.png?raw=true</IMAGE>
 		<LINK>https://pokemon-mart.000webhostapp.com/</LINK>
-		<HOVER>ljhjlhj</HOVER>
+		<HOVER>https://github.com/CindyKiran/CindyKiran.github.io/blob/master/Portfolio/src/assets/PokemartWebB.gif?raw=true</HOVER>
 	</WORK>
 </PORTFOLIO>
