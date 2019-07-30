@@ -15,10 +15,4 @@ export class HomeComponent implements OnInit {
   ngOnInit() {
     this.projectService.getProjects().subscribe(projects => this.projects = projects);
   }
-
-  myFunction(){
-    // //var x = (<HTMLImageElement> document.getElementById("image")).src;
-    // var x =  document.getElementById("image").parentElement;
-    // alert(x);
-  }
 }
