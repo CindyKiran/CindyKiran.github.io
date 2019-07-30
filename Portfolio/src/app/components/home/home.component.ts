@@ -14,7 +14,7 @@ export class HomeComponent implements OnInit {
 
   ngOnInit() {
     this.projectService.getProjects().subscribe(projects => this.projects = projects);
-    this.myFunction();
+    alert("test");
   }
 
   myFunction(){
