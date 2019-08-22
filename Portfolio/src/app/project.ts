@@ -6,6 +6,7 @@ export class Project {
         public tools: Array<string>,
         public image: string,
         public link: string,
-        public hover: string
+        public hover: string,
+        public status: string
     ){}
 }

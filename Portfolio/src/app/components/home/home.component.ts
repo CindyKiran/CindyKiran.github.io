@@ -9,10 +9,12 @@ import { Project } from 'src/app/project';
 })
 export class HomeComponent implements OnInit {
   projects;
-
+  show = true;
+  
   constructor(private projectService: ProjectService) { }
 
   ngOnInit() {
     this.projectService.getProjects().subscribe(projects => this.projects = projects);
   }
+
 }

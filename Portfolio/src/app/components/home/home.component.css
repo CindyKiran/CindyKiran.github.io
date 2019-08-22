@@ -49,7 +49,7 @@ h2::before, h2::after {
   .container{
     max-width: 100%;
   }
-  .image{
+  #image{
     height: auto;
   }
 }
