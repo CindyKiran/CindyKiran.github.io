@@ -4,7 +4,7 @@ body {
     margin: 0;
     text-align: center;
     font-family: 'Varela Round', sans-serif;
-    background: linear-gradient(to right, rgb(250, 220, 220), rgb(233, 253, 195));
+    background: linear-gradient(to right, rgb(250, 220, 220), #feffca);
 }
 
 p { text-align: left; }
