@@ -1,6 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <PORTFOLIO>
 	<WORK>
+		<TITLE>Shopping Cart</TITLE>
+		<TIME>2019</TIME>
+		<DESC>Create shopping cart experience where you can register, sign in, add items to shopping cart, and save your order on your profile.</DESC>
+		<TOOLS>PHP</TOOLS>
+		<TOOLS>Laravel</TOOLS>
+		<TOOLS>HTML and CSS</TOOLS>
+		<IMAGE>https://github.com/CindyKiran/CindyKiran.github.io/blob/master/Portfolio/src/assets/ShoppingCart.gif?raw=true</IMAGE>
+		<LINK>https://github.com/CindyKiran/PokeMart/tree/master/Shopping-cart</LINK>
+		<HOVER>https://github.com/CindyKiran/CindyKiran.github.io/blob/master/Portfolio/src/assets/ShoppingCart.gif?raw=true</HOVER>
+		<STATUS>Future: add to favorite list, navbar more responsive</STATUS>
+	</WORK>
+	<WORK>
 		<TITLE>PokeMart Inventory</TITLE>
 		<TIME>2019</TIME>
 		<DESC>Retrieve and display items from database and insert new item into the current database, which will be updated</DESC>
